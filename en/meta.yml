@@ -1,0 +1,10 @@
+title: rpi-python-ldr
+hero_image: images/banner.png
+subtitle: rpi-python-ldr subtitle
+description: rpi-python-ldr description
+original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+theme: cc-prototype
+published: false
+steps:
+  - title: Step one
+    duration: 60
