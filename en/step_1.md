@@ -24,5 +24,19 @@ ldr = LightSensor(17)
 print(ldr.value)
 ```
 
+#### Other methods
 
+The `LightSensor` class has the following other methods:
 
+```python
+## Pause until no light is detected
+wait_for_dark()
+## Pause until light is dtected
+wait_for_light()
+## Return True if light is detected
+light_detected
+## Function to run when it is dark
+when_dark = my_function
+## Function to run wen it is light
+when_light = my_function
+```
