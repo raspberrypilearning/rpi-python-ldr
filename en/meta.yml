@@ -1,10 +1,14 @@
 title: Using an LDR to measure light
 hero_image: images/banner.png
-subtitle: rpi-python-ldr subtitle
-description: rpi-python-ldr description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+description: Detect light levels with an LDR
+original_url:
 theme: cc-prototype
-published: false
+listed: false
+duration: 1
+ingredient: true
+copyedit: false
+interests:
+technologies: "physicall computing"
 steps:
-  - title: LDR for light
+  - title: How to detect light
 
