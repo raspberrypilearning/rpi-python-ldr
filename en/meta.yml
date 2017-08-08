@@ -6,7 +6,7 @@ theme: cc-prototype
 listed: false
 duration: 1
 ingredient: true
-copyedit: false
+copyedit: true
 interests:
 technologies: "physical computing"
 steps:
