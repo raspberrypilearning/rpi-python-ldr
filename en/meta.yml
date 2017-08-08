@@ -1,0 +1,14 @@
+title: Using an LDR to measure light
+hero_image: images/banner.png
+description: Detect light levels with an LDR
+original_url:
+theme: cc-prototype
+listed: false
+duration: 1
+ingredient: true
+copyedit: true
+interests:
+technologies: "physical computing"
+steps:
+  - title: How to detect light
+
